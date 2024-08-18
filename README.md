@@ -1,4 +1,4 @@
-rabalho Prático 02 - Middlewares
+Trabalho Prático 02 - Middlewares
 Arquitetura Cliente-Servidor
 Java RMI, Eventos e Notificações
 
